@@ -2,7 +2,7 @@
 Check your location history to see how close you've been to an area that was hazardous, e.g. coronavirus
 
 Done:
-- Basic location tracking client (from MoonRunner sample code)
+- Basic location tracking client (raywenderlich.com MoonRunner sample code)
 
 Todo: 
 - hazard data server impl
